@@ -97,3 +97,7 @@ p {
   display: flex;
   position: relative;
 }
+
+.green {
+  color: green;
+}
