@@ -10,13 +10,6 @@ li .fa {
   color: black;
 }
 
-li .fa-check {
-  width: 18px;
-  height: 18px;
-  font-size: 18px;
-  color: black;
-}
-
 li i {
   width: 18px;
   height: 18px;
@@ -100,4 +93,19 @@ p {
 
 .green {
   color: green;
+}
+
+.fa-pencil-alt {
+  position: absolute;
+  right: 60px;
+}
+
+.fa-check {
+  position: absolute;
+  right: 30px;
+}
+
+.fa-trash-alt {
+  position: absolute;
+  right: 0px;
 }
