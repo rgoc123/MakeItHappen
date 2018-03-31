@@ -80,6 +80,11 @@ p {
   color: white;
 }
 
+.add-to-do-button:hover {
+  background: lightblue;
+  color: white;
+}
+
 .to-do-item {
   font-size: 20px;
   background-color: rgba(255,255,255,0.8);
