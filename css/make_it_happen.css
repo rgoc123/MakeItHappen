@@ -83,6 +83,7 @@ p {
 .add-to-do-button:hover {
   background: lightblue;
   color: white;
+  cursor: pointer;
 }
 
 .to-do-item {
@@ -108,6 +109,10 @@ p {
 .fa-check {
   position: absolute;
   right: 30px;
+}
+
+.to-do-list i:hover {
+  cursor: pointer;
 }
 
 .fa-trash-alt {
