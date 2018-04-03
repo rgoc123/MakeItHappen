@@ -7,6 +7,3 @@ Live: [MakeItHappen](http://robertoconnor.io/MakeItHappen/)
 
 #### How to Use
 Simply enter the to-do you want to make happen!
-
-#### Upcoming Updates
-The ability to edit and delete to-dos, as well as the ability to mark them as complete.

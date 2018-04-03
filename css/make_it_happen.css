@@ -24,6 +24,7 @@ li i {
   background-image: url('./desk.png');
   margin: 0 auto;
   display: flex;
+  position: relative;
 }
 
 .col-alpha {
@@ -122,7 +123,7 @@ p {
 
 .contact-info {
   position: absolute;
-  bottom: -106px;
+  bottom: 15px;
   width: 960px;
 }
 
